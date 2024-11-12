@@ -1,0 +1,7 @@
+[ET Legacy]
+mod=legacy
+exeName=etl.exe
+exePath=C:\Program Files (x86)\ETLegacy\etl.exe <--- IMPORTANT: SPECIFY THE PROGRAM PATH TO YOUR ETL.exe HERE!!!
+masterServer=etmaster.idsoftware.com
+protocolVersion=84
+etColors=true
